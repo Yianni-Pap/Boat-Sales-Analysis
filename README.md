@@ -13,5 +13,5 @@ These include:
 The dataset found on Kaggle provides information on the sales of boats over the past 10 years. It includes data such as the manufacturer, model, size, and year. It also has information on the price, type of hull, and engine type. The dataset can be used to examine trends in boat sales, the prices people are willing to pay for different boats, and how certain boat features affect sales. It can also be used to compare boat offerings between different manufacturers or to understand how certain models are doing compared to others.
 
 ## Data Source
-The opensource data are available in [Kaggle](https://www.kaggle.com/code/marwandiab/boat-sales-analysis)
+The open source data are available in [Kaggle](https://www.kaggle.com/code/marwandiab/boat-sales-analysis)
 
